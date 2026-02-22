@@ -1,9 +1,9 @@
 class OtaTouchid < Formula
   desc "Over-the-air Touch ID authentication for remote Macs"
   homepage "https://github.com/pproenca/ota-touchid"
-  url "https://github.com/pproenca/ota-touchid/releases/download/v0.1.9/ota-touchid-macos-arm64.tar.gz"
-  version "0.1.9"
-  sha256 "d4e8a361e23edaf41cb11edc7350243c43d7492baaeda4bf161301954d716f20"
+  url "https://github.com/pproenca/ota-touchid/releases/download/v0.1.10/ota-touchid-macos-arm64.tar.gz"
+  version "0.1.10"
+  sha256 "3e14e1c70b1d9492ed8c06de486e2f9443de165b7d9caf6965048f640ef9e54a"
   license "MIT"
 
   depends_on :macos
