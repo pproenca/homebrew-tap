@@ -9,8 +9,8 @@
 class Mutate4swift < Formula
   desc "Mutation testing tool for Swift Package Manager projects"
   homepage "https://github.com/pproenca/mutate4swift"
-  url "https://github.com/pproenca/mutate4swift/releases/download/v0.1.2/mutate4swift-macos-arm64.tar.gz"
-  sha256 "26906bbfe4699b70e31c377b91f8549d4dbda48476ff61511f21ce21f76418df"
+  url "https://github.com/pproenca/mutate4swift/releases/download/v0.1.3/mutate4swift-macos-arm64.tar.gz"
+  sha256 "3e935d826ce851389b445d234c9f51dd6b203b921ca1abaf820732878b670e6e"
   license "MIT"
 
   depends_on :macos
