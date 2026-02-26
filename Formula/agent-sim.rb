@@ -1,9 +1,9 @@
 class AgentSim < Formula
   desc "Simulator automation for AI agents — tap, swipe, read accessibility trees"
   homepage "https://github.com/pproenca/agent-sim"
-  url "https://github.com/pproenca/agent-sim/releases/download/v0.1.6/agent-sim-macos-arm64.tar.gz"
-  sha256 "7a282261ad5c851781e4c988bc70babb9527638f1e706bdaf2af778258d0bef2"
-  version "0.1.6"
+  url "https://github.com/pproenca/agent-sim/releases/download/v0.1.7/agent-sim-macos-arm64.tar.gz"
+  sha256 "fe9647b9054f25eade41ee6a60828a2963279d96e59723abdccd2beee8632904"
+  version "0.1.7"
   license "MIT"
 
   depends_on :macos
