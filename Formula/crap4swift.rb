@@ -9,8 +9,8 @@
 class Crap4swift < Formula
   desc "CRAP (Change Risk Anti-Pattern) scores for Swift code"
   homepage "https://github.com/pproenca/crap4swift"
-  url "https://github.com/pproenca/crap4swift/releases/download/v0.0.3/crap4swift-macos-arm64.tar.gz"
-  sha256 "c33d9933fa626c460ceb30d4e9714381656aefbe02d8dcb94958747e4c4dd586"
+  url "https://github.com/pproenca/crap4swift/releases/download/v0.0.4/crap4swift-macos-arm64.tar.gz"
+  sha256 "042ed40dbd49a4d64ec6e04ff12af31ec10d3bd77ea18ab7bfdd4d6c99642e81"
   license "MIT"
 
   depends_on :macos
